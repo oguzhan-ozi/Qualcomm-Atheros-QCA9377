@@ -1,4 +1,4 @@
-# Quallcom-Atheros-QCA9377
+# Qualcomm-Atheros-QCA9377
 
 Valid on Arch-based distributions. 
 
