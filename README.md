@@ -11,7 +11,6 @@ If you want a debian based distribution.
 Employee distribution;
 
 > Zorin OS 15.3 Lite
-<br>
 
 > Artix Linux Openrc LXDE
 
